@@ -1,0 +1,4 @@
+github.com/winlinvip/go-aresample v0.0.0-20160706092116-c1dbed835c9e h1:oclnpK0ubUwli2PA1+TgWwH3o/jS2BjJMuoy3IdDsrU=
+github.com/winlinvip/go-aresample v0.0.0-20160706092116-c1dbed835c9e/go.mod h1:qrBa1gIjj8EZSridxMTf6qm0qkIhmryU6ArhRn2CjqQ=
+github.com/winlinvip/go-fdkaac v0.0.0-20180716140705-2654f5a0cc2e h1:A503ybhGCH7sRN/91AyHnLgmr/zM6gIEjcQ0A0ANAa8=
+github.com/winlinvip/go-fdkaac v0.0.0-20180716140705-2654f5a0cc2e/go.mod h1:JmQ0tCK7IywLmzuTYIjpvW+VEfpKmGa681iIQaWn9t8=
